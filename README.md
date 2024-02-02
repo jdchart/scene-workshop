@@ -77,7 +77,7 @@ Access the live demo of SCENE here: [https://scene.tetras-libre.fr/](https://sce
 - Europeana :
     - French translation of Walden (BnF) [Original link](https://www.europeana.eu/fr/item/794/ark__12148_bpt6k933829z)
         ```
-        
+        https://gallica.bnf.fr/iiif/ark:/12148/bpt6k933829z/manifest.json
         ```
         
     - Thoreau portrait [Original link](https://www.europeana.eu/fr/item/2048424/item_IQL2C22QHHZEFYSHNJGH5D6CENGVNZQF)
