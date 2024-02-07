@@ -10,7 +10,29 @@ Access the live demo of SCENE here: [https://scene.tetras-libre.fr/](https://sce
 
 ## COESO Corpus
 
-**TODO Add COESO stuff.**
+Alma Dance Example:
+
+```
+https://coeso.tetras-libre.fr/data/coeso-deliverable/lower/c3f92e01-c85a-4487-a40e-6c29f9dc915d.json
+```
+
+Manual network configuration:
+
+```
+https://coeso.tetras-libre.fr/data/coeso-deliverable/Manual_Network_Configuration.json
+```
+
+Automatic network configuration:
+
+```
+https://coeso.tetras-libre.fr/data/coeso-deliverable/Automatic_Network_Configuration.json
+```
+
+Collaboration analytics (D. Boullier approach):
+
+```
+https://coeso.tetras-libre.fr/data/coeso-deliverable/c41b0c91-f735-41fa-83f0-d9f836bb9ca1.json
+```
 
 ## Walden Corpus
 *Re:Walden*, directed by Jean-François Peyret, after Henry David Thoreau, Avignon 2013
